@@ -1,8 +1,8 @@
 # aws-sam-rust-hello-world
 
-This is a minimum example to set up a Rust webapp application with ASW lambda and AWS SAM.
+This is a minimum example to set up a Rust project with ASW lambda and AWS SAM.
 
-This application exposes a single endpoint at root level that simply returns "Hello World!".
+This exposes a single endpoint at root level that simply returns "Hello World!".
 
 ## Local development
 
